@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400:500;600&display=swap');
+
+html, body {
+    background-color: rgb(15,15,15);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+}
+
+::-webkit-scrollbar {
+    width: 3px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #16161E;
+}
+  
+::-webkit-scrollbar-thumb {
+    background-color: #181B22;
+    border-radius: 16px;
+}
+  
